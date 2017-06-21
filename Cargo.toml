@@ -5,3 +5,4 @@ authors = ["Mathias <mathias.boesl@gmx.de>"]
 
 [dependencies]
 regex = "0.2"
+libusb = "0.3.0"
